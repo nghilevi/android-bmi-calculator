@@ -1,0 +1,48 @@
+<resources>
+
+   <string name="app_name">BMI - Finnish</string>
+   <string name="menu_settings">Settings - Finnish</string>
+   <string name="title">Results by Date - Finnish</string>
+   <string name="button_add_contact">Add Entry - Finnish</string>
+   <string name="save_btn">Save Entry - Finnish</string>
+   
+   <string name="add_menu">Add Entry - Finnish</string>
+   <string name="edit_menu">Edit Entry - Finnish</string>
+   <string name="delete_menu">Delete Entry - Finnish</string>
+   
+   <string name="name_hint">Date - Finnish</string>
+   <string name="cap_hint">Weight - Finnish</string>
+   <string name="code_hint">Code - Finnish</string>
+   
+   <string name="name_lbl">Date - Finnish</string>
+   <string name="cap_lbl">Weight - Finnish</string>
+   <string name="code_lbl">BMI - Finnish</string>
+   
+   <string name="confirmTitle">Are You Sure? - Finnish</string>
+   <string name="confirmMessage">This will permanently Delete the Entry - Finnish</string>
+   
+   <string name="errorButton">OK - Finnish</string>
+   <string name="errorTitle">Date is Required - Finnish</string>
+   <string name="errorMessage">You Need to Enter a Date - Finnish</string>
+   
+   <string name="cancel_btn">Cancel - Finnish</string>
+   <string name="delete_btn">Delete - Finnish</string>
+   
+
+    <string name="action_settings">Settings</string>
+    <string name="lblWeight">Your Weight (lbs)</string>
+    <string name="lblHeight">Your Height (feets)</string>
+    <string name="btnCalculate">"Calculate"</string>
+    <string name="emptyString"></string>
+    <string name="btnTblResult">TABLE RESULT</string>
+    <string name="btnGraphResult">GRAPH RESULT</string>
+    <string name="btnSettings">SETTINGS</string>
+    <string name="lblname">Name:</string>
+    <string name="lblAge">Age:</string>
+    <string name="radMale">Male</string>
+    <string name="btnGotoCalculator">CALCULATOR</string>
+    <string name="btnBMISrc">BMI SOURCES</string>
+    
+    <string name="lblResult">Your result displayed here-Finnish.</string>
+
+</resources>

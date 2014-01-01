@@ -22,6 +22,7 @@ public class WelcomeScreen extends Activity {
 	public void gotoClickHandler(View view) {
 	     // make sure we handle the click of the calculator button
 
+
 	     if (view.getId() == R.id.btnTblResult) {
 	    	 Intent intent = new Intent(WelcomeScreen.this, TableResult.class);
 	    	 startActivity(intent);	
